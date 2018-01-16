@@ -1,24 +1,13 @@
-TÃ­tulo (30)
-===========
-
-DescripciÃ³n breve (80)
-======================
-
-DescripciÃ³n completa (4000)
-===========================
-
-Etiquetas	
-===========
-
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
-
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
-
-Sitio web
-=========
-
-Correo electrÃ³nico
-==================
-
+TITULO:  GUÍA EL PUERTO DE SANTA MARÍA
+DESCRIPCION BREVE: 
+      “GUÍA CON INFORMACIÓN DE INTERÉS DE EL PUERTO DE SANTA MARÍA” 
+DESCRIPCIÓN COMPLETA: 
+      El servicio de Información Geográfica y Estadística del Ayuntamiento de el Puerto de Santa María ha venido trabajando en el mantenimiento y la actualización de su callejero oficial y en la publicación de guías del municipio cuando las disponibilidades presupuestarias lo permitían. Dichas guías se editaban siempre en papel y con distintos formatos, recogiéndose en ellas la información que era más ampliamente demandada por los ciudadanos y colectivos.
+      La nueva guía supone un salto cualitativo de primera magnitud ya que, si bien la información ha venido siendo actualizada de manera continua, hasta ahora no ha sido posible ponerla a disposición de los ciudadanos por medios electrónicos. Esta labor se debe a la iniciativa desarrollada por el Instituto de Estadística y Cartografía de Andalucía, que ha puesto los medios necesarios para que los Ayuntamientos podamos difundir por medios electrónicos y al alcance de todos los ciudadanos, una información de consideramos de máxima utilidad y que hasta ahora, solo estaba accesible en los despachos de la Administración.
+      En esta guía se podrá acceder de manera sumamente fácil, a localizar cualquier calle o plaza existente en el callejero oficial del municipio, los servicios públicos como oficinas de la Administración, centros educativos, deportivos, culturales, sanitarios, emergencias, alojamientos y mucha más información que sin duda alguna, será de interés general para los ciudadanos.
+      El desarrollo tecnológico ha posibilitado que no solamente se cuente con la información incluida en la propia Guía, sino que se pone a disposición de los ciudadanos la herramienta: “LLEVAME ALLI”, que permite, una vez localizado el lugar por el que hemos solicitado la información, enlazar con el navegador de “google maps” y la propia aplicación nos conducirá hasta el lugar deseado.
+      Así mismo se ha desarrollado el servicio “CERCA DE MI”, con la que los usuarios pueden conocer los lugares de interés que existen en las proximidades de la persona que utiliza la aplicación.
+      Se incluyen también en la Guía, los monumentos más relevantes del municipio y una breve descripción de los mismos, facilitada por el servicio de Patrimonio Histórico de nuestro Ayuntamiento, así como una fotografía de los mismos, su dirección postal, su teléfono y, cuando ha sido posible, el enlace a la web de los mismos y su dirección de correo electrónico.
+      Figura también, la relación parkings existentes en la ciudad, así como las plazas de aparcamiento reservadas a personas con discapacidad, que están ubicadas en la vía pública, con el propósito de que puedan ser localizadas fácilmente por los usuarios que utilicen la aplicación y el enlace con el navegador.
+      Obviamente no es una guía completa y definitiva, sino que el propósito de las personas que hemos trabajado en este proyecto es ir incluyendo nuevos contenidos y corrigiéndola de manera ininterrumpida. 
+      Es posible pues, que dado el volumen de información que contiene, se detecten errores o ausencias de elementos o servicios que puedan ser de interés para los ciudadanos en la Guía y por ello, hemos previsto en la misma una opción de “INCIDENCIAS”, con el fin de que los usuarios puedan comunicarnos cualquier error o sugerencia para mejorar este nuevo servicio público. 
